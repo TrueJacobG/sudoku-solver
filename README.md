@@ -3,3 +3,6 @@
 
 #### Libraries:
 ##### - PySimpleGUI
+
+#### Exported with:
+##### - auto-py-to-exe
