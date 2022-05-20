@@ -1,8 +1,11 @@
-### 2020
-#### Sudoku solver
+### Sudoku solver
+
+---
 
 #### Libraries:
 ##### - PySimpleGUI
+
+---
 
 #### Exported with:
 ##### - auto-py-to-exe
