@@ -1,4 +1,4 @@
-### Sudoku solver
+### Python - Sudoku solver
 
 ---
 
